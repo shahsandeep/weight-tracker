@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "160317455337",
+    "project_id": "weight-tracker-b820e",
+    "storage_bucket": "weight-tracker-b820e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160317455337:android:2f6ac15fcf0ab49de8a978",
+        "android_client_info": {
+          "package_name": "com.sandeep.firestore_weight_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160317455337-ur91hp2kjfr2bpc4l8dmdap3gvdb50s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAllZG91lfpPsQ7wllDsHj7_l3Us-w_6A0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160317455337-ur91hp2kjfr2bpc4l8dmdap3gvdb50s7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
